@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KR Gateman</string>
+    <string name="login_hint">Enter Login ID</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="try_again">Bluetooth device not connected..trying to reconnect. If failed, close the app and restart.</string>
+</resources>

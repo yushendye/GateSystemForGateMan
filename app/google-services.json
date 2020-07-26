@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "186489235713",
+    "firebase_url": "https://gateman-4f5c7.firebaseio.com",
+    "project_id": "gateman-4f5c7",
+    "storage_bucket": "gateman-4f5c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186489235713:android:115ce986a6c1d2825c9300",
+        "android_client_info": {
+          "package_name": "com.smgdevs.chinmay.gatesystemforgateman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186489235713-liibh5bqr54lgec05ttjptiu9bftq22a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKd5-W7xjpqHxZyWfInE87Y_1Uv99YuDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186489235713-liibh5bqr54lgec05ttjptiu9bftq22a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
