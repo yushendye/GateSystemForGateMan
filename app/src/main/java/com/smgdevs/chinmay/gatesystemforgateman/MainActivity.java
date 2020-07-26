@@ -85,7 +85,7 @@ public class MainActivity extends AppCompatActivity implements MessageListener{
     private String GATE_ID = "LC_21";
     private String CONTACT = "7276125198";
 
-    //bluetooth required classes
+    //bluetooth require
     BluetoothAdapter bluetoothAdapter;
     BluetoothSocket bluetoothSocket;
     Set<BluetoothDevice> paired_device_list;
