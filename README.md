@@ -17,4 +17,4 @@ This project was originally intended to be used by Konkan Railway Coroporation L
 
 <strong>Output</strong>: 
 <br>
-<img src="https://github.com/yushendye/yushendye.github.io/blob/main/assets/img/gateman_working.png" class="img-bg" alt="" height="800">
+<img src="https://github.com/yushendye/yushendye.github.io/blob/main/assets/img/gateman_working.png" class="img-bg" alt="" height="*">
